@@ -1,0 +1,147 @@
+p{
+    text-indent: 30px;
+    margin-left: 20px;
+}
+
+body{
+    background-color: rgb(26, 26, 26);
+    color: lightgray;
+    font-family: 'Play', sans-serif;
+}
+
+.conteudo{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 65px;
+}
+
+.esquerdo{
+    float: left;
+}
+
+.esquerdo img{
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.direito{
+    float: right;
+    
+}
+
+.direito h1{
+    line-height: -1px;
+}
+
+.gla1ve{
+    float: right;
+}
+
+fieldset{
+    margin-right: 75%;
+}
+
+a{
+    color: lightgray;
+    
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(255, 51, 51);
+}
+
+footer{
+    background-color: rgb(26, 26, 26);
+    color: rgb(255, 51, 51);
+    margin: 20px;
+    text-align: center;
+    position: sticky;
+    bottom: 0;
+    padding: 10px;
+}
+
+form{
+    margin-left: 20px;
+    margin-top: 60px;
+}
+
+.ImagemA{
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+.video{
+    margin-left: 60px;
+    float:left;
+    margin-right:50px;
+    
+  }
+
+li{
+      text-align: left;
+      
+      margin-right: 60%;
+}
+
+h6{
+    margin-left: 50px;
+}
+
+#h6_2{
+    margin-left: 710px;
+}
+
+h4{
+    margin-left: 20px;
+    color: rgb(255, 51, 51);
+}
+
+h3{
+    margin-left: 15px;
+    color: rgb(255, 51, 51);
+}
+
+#video3{
+    margin-left: 30%;
+}
+
+#cabeçalho{
+    margin-top: 10px;
+}
+
+.corFundo{
+    background-color: rgb(26, 26, 26);
+    border: 3px rgb(141, 141, 141);
+    border-radius: 5px;  
+    border-style: none solid solid solid;  
+    
+}
+
+.custom-toggler.navbar-toggler { 
+    border-color: rgb(255, 51, 51); 
+    
+}
+
+.custom-toggler .navbar-toggler-icon { 
+    background-image: url( 
+"img/Astralis_icon.png"); 
+} 
+
+#formAst{
+    margin: 10px;
+}
+
+.footer2{
+    margin-top: 430px;
+    
+}
+
+.footer3{
+    position: fixed bottom;
+}
