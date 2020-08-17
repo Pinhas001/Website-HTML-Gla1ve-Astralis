@@ -77,11 +77,8 @@ form{
 }
 
 .video{
-    margin-left: 60px;
-    float:left;
-    margin-right:50px;
-    
-  }
+    text-align: center;
+}
 
 li{
       text-align: left;
