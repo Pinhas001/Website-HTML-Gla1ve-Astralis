@@ -5,3 +5,6 @@ Este projeto consiste num website do jogador profissional de Counter-Strike: Glo
 
 Foi o meu primeiro projeto de HTML e CSS apenas.
 ______________________________
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
